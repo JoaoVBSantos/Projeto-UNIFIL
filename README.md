@@ -23,3 +23,5 @@
 
 ### Visualizando o Aplicativo no Emulador
 1. Para abrir o emulador e visualizar o aplicativo, pressione a tecla "a".
+
+teste
